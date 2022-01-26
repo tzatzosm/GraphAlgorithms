@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0A7C2E5527A1DB2E00DB8B63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0AA45C1A27A14875002831AD /* GraphAlgorithms.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GraphAlgorithms.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0AA45C1327A1485F002831AD = {
+			isa = PBXGroup;
+			children = (
+				0A7C2E5527A1DB2E00DB8B63 /* README.md */,
+				0AA45C1A27A14875002831AD /* GraphAlgorithms.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0AA45C1427A1485F002831AD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = 0AA45C1727A1485F002831AD /* Build configuration list for PBXProject "GraphAlgorithms" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0AA45C1327A1485F002831AD;
+			packageReferences = (
+			);
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0AA45C1827A1485F002831AD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0AA45C1927A1485F002831AD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0AA45C1727A1485F002831AD /* Build configuration list for PBXProject "GraphAlgorithms" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0AA45C1827A1485F002831AD /* Debug */,
+				0AA45C1927A1485F002831AD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0AA45C1427A1485F002831AD /* Project object */;
+}
