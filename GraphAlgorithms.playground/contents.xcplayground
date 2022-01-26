@@ -6,5 +6,7 @@
         <page name='BreadthFirstTraversal'/>
         <page name='HasPath'/>
         <page name='HasPath-Recursive'/>
+        <page name='UndirectedPath'/>
+        <page name='UndirectedPath-Recursive'/>
     </pages>
 </playground>

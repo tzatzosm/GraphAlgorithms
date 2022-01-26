@@ -13,3 +13,7 @@
 ### [HasPath](GraphAlgorithms.playground/Pages/HasPath.xcplaygroundpage/Contents.swift)
 
 ### [HasPath-Recursive](GraphAlgorithms.playground/Pages/HasPath-Recursive.xcplaygroundpage/Contents.swift)
+
+### [UndirectedPath](GraphAlgorithms.playground/Pages/UndirectedPath.xcplaygroundpage/Contents.swift)
+
+### [UndirectedPath-Recursive](GraphAlgorithms.playground/Pages/UndirectedPath-Recursive.xcplaygroundpage/Contents.swift)
