@@ -4,5 +4,7 @@
         <page name='DepthFirstTraversal'/>
         <page name='DepthFirstTraversal-Recursive'/>
         <page name='BreadthFirstTraversal'/>
+        <page name='HasPath'/>
+        <page name='HasPath-Recursive'/>
     </pages>
 </playground>
