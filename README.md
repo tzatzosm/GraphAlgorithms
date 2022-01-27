@@ -22,3 +22,5 @@
 
 ### [LargestComponent](GraphAlgorithms.playground/Pages/LargestComponent.xcplaygroundpage/Contents.swift)
 
+### [ShortestPath](GraphAlgorithms.playground/Pages/ShortestPath.xcplaygroundpage/Contents.swift)
+

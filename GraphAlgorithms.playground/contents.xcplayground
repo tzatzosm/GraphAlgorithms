@@ -10,5 +10,6 @@
         <page name='UndirectedPath-Recursive'/>
         <page name='ConnectedComponentsCount'/>
         <page name='LargestComponent'/>
+        <page name='ShortestPath'/>
     </pages>
 </playground>
