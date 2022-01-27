@@ -1,5 +1,12 @@
 import Foundation
 
+// Write a function, undirectedPath, that takes in an array of edges for an undirected graph and two nodes (nodeA, nodeB).
+// The function should return a boolean indicating whether or not there exists a path between nodeA and nodeB.
+
+// n: Nodes
+// e: Edges
+// Time: O(e)
+// Space: O(n)
 func undirectedPath(edges: [[String]], nodeA: String, nodeB: String) -> Bool {
     if nodeA == nodeB { return true }
     // Transform the graph into a directed one - allows to traverse in an easier way

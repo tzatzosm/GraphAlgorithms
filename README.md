@@ -17,3 +17,8 @@
 ### [UndirectedPath](GraphAlgorithms.playground/Pages/UndirectedPath.xcplaygroundpage/Contents.swift)
 
 ### [UndirectedPath-Recursive](GraphAlgorithms.playground/Pages/UndirectedPath-Recursive.xcplaygroundpage/Contents.swift)
+
+### [ConnectedComponentsCount](GraphAlgorithms.playground/Pages/ConnectedComponentsCount.xcplaygroundpage/Contents.swift)
+
+### [LargestComponent](GraphAlgorithms.playground/Pages/LargestComponent.xcplaygroundpage/Contents.swift)
+

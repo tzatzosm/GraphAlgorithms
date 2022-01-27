@@ -8,5 +8,7 @@
         <page name='HasPath-Recursive'/>
         <page name='UndirectedPath'/>
         <page name='UndirectedPath-Recursive'/>
+        <page name='ConnectedComponentsCount'/>
+        <page name='LargestComponent'/>
     </pages>
 </playground>
